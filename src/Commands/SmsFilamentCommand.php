@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Bpnpdl\SmsFilament\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SmsFilamentCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'sms-filament';
 
     public $description = 'My command';
 
